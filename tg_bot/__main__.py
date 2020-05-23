@@ -18,16 +18,9 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█ █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█ █░░║║║╠─║─║─║║║║║╠─░░█ █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█ █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-
-*Hello* {},*My Name is* *{}*! 
-
-```You You Can Add any kind of Filters to This Bot!```
-
-*Channel:© @DX_Botz*
-
-/help for more details..
-"""
+Hey Dude,
+Iam MalavikaBot.Group Manager Filter Bot.Join our group and reuest movies 
+Channel - @Cinemaglitz
 
 HELP_STRINGS = """
 Hello! my name *{}*.
