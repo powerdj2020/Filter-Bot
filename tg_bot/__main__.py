@@ -22,13 +22,14 @@ PM_START_TEXT = """
 
 Iam a Cinemagroup management Filter Bot [bot](https://t.me/ericowen)
 
-Join our group 
-'''and you can ask any movies in group.you will get instant reply!'''
+*Join our group* 
+
+'''and you can ask any movies in the group and you will get instant reply!'''
 
 Join Now
 
 *Channel:© @Cinemaglitz*
-*Group:© @Cglitz*
+*Group:  © @Cglitz*
 
 /help for more details..
 """
