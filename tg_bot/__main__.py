@@ -18,14 +18,14 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█ █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█ █░░║║║╠─║─║─║║║║║╠─░░█ █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█ █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+*Hello Dude* {},*My Name is* *{}*!
 
-*Hello* {},*My Name is* *{}*!
+Iam a Cinemagroup management Filter Bot [bot](https://t.me/ericowen)
 
-'''You You Can Add any kind of Filters to This Bot!'''
-
+'''Join our group and you can ask any movies in group.you will get instant reply!'''
+Join Now
 *Channel:© @Cinemaglitz*
-
+*Group:© @Cglitz*
 /help for more details..
 """
 
