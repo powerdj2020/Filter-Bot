@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hey Dude,
 Iam MalavikaBot.Group Manager Filter Bot.Join our group and reuest movies 
-Channel - @Cinemaglitz
+Channel@Cinemaglitz
 
 HELP_STRINGS = """
 Hello! my name *{}*.
